@@ -65,11 +65,11 @@ body{
 }
 
 .container .product .color .black{
-    background: #8b8a8a;
+    background: #753b3b;
 }
 
 .container .product .color .red{
-    background: #f19da3;
+    background: rgb(10, 75, 95);
 }
 
 .container .product .color .orange{
