@@ -61,19 +61,19 @@ body{
 }
 
 .container .product .color .green{
-    background: #9ABE62;
+    background: #5e7932;
 }
 
 .container .product .color .black{
-    background: #222627;
+    background: #363636;
 }
 
 .container .product .color .red{
-    background: #B41D26;
+    background: #743e42;
 }
 
 .container .product .color .orange{
-    background: #DE522F;
+    background: #af7566;
 }
 
 .container .product .color .active::after{
