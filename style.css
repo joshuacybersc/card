@@ -55,7 +55,7 @@ body{
     height: 15px;
     margin: 0 15px;
     border-radius: 50%;
-    background: #DE522F;
+    background: rgb(100, 47, 222);
     cursor: pointer;
     position: relative;
 }
