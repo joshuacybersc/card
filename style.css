@@ -113,3 +113,31 @@ body{
     color: white;
     margin: 15px;
 }
+</Style>
+{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+#menu-h ul {
+    list-style: none;
+    padding: 0;
+    background-color: rgb(10, 10, 10);
+}
+#menu-h ul li {
+    display: inline;
+}
+#menu-h ul li a{
+    color: rgb(253, 253, 253);
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+    transition: background .6s;
+}
+#menu-h  li a:hover {
+    background-color: chocolate;
+}
+#menu-h ul li:last-child a {
+    float: right;
+    background-color: #6766bd;
+}
